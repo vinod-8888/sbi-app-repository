@@ -5,6 +5,10 @@ friends
 marriage
 
 boy and girl
+<<<<<<< HEAD
 
 geetha vinod
 
+
+geetha vinod
+marriage
